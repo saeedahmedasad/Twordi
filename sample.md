@@ -46,29 +46,29 @@ Following are the steps that show how you can **Contribute**:
 **Step 1** **_FORKING_**
 
 <p align="center">
-    <img src="/home/saeed/Music/1.png">
+    <img src="/home/saeed/Documents/Twordi/assets/1.png">
 </p>
 
 **Step 2** **CLONING REPO**
 
 <p align="center">
-    <img src="/home/saeed/Music/2.png">
+    <img src="/home/saeed/Documents/Twordi/assets/2.png">
 </p>
 
 **Step 3** **BRANCHING**
 
 <p align="center">
-    <img src="/home/saeed/Music/3.png">
+    <img src="/home/saeed/Documents/Twordi/assets/3.png">
 </p>
 
 **Step 4** **PUSHING**
 
 <p align="center">
-    <img src="/home/saeed/Music/4.png">
+    <img src="/home/saeed/Documents/Twordi/assets/4.png">
 </p>
 
 **Step 5** **PULL REQUEST**
 
 <p align="center">
-    <img src="/home/saeed/Music/5.png">
+    <img src="/home/saeed/Documents/Twordi/assets/5.png">
 </p>
