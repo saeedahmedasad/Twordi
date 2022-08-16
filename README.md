@@ -1,22 +1,3 @@
-<!-- > # This is our website to visit in the context of the honour
-
----
-<p align="center">
-    <img src="/home/saeed/Music/assests/Dp.jpg" width="180" height= "180">
-</p>
-
----
-
-# \*_How you can *Contribute:*_ \*
-
-[Twordi](https://www.twordi.netlify.app "Twordi")
-
-- Item 1
-- Item 2
-- Item 3
-
-![IMAGE](../Pictures/Screenshots/Screenshot%20from%202022-08-10%2016-10-32.png) -->
-
 # **TWORDI**
 
 ## TWORDI is the online and **_Open Source_** web app. TWORDI is basically focused on
@@ -46,29 +27,29 @@ Following are the steps that show how you can **Contribute**:
 **Step 1** **_FORKING_**
 
 <p align="center">
-    <img src="/home/saeed/Documents/Twordi/assets/1.png">
+    <img src="./assets/1.png">
 </p>
 
 **Step 2** **CLONING REPO**
 
 <p align="center">
-    <img src="/home/saeed/Documents/Twordi/assets/2.png">
+    <img src="./assets/2.png">
 </p>
 
 **Step 3** **BRANCHING**
 
 <p align="center">
-    <img src="/home/saeed/Documents/Twordi/assets/3.png">
+    <img src="./assets/3.png">
 </p>
 
 **Step 4** **PUSHING**
 
 <p align="center">
-    <img src="/home/saeed/Documents/Twordi/assets/4.png">
+    <img src="./assets/4.png">
 </p>
 
 **Step 5** **PULL REQUEST**
 
 <p align="center">
-    <img src="/home/saeed/Documents/Twordi/assets/5.png">
+    <img src="./assets/5.png">
 </p>
